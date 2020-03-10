@@ -3,7 +3,7 @@ FiveM Chat System | Works off ESX Framework
 
 # Installation
 
-Add 'Start Chat' into your server.cfg
+Add 'ensure Chat' into your server.cfg
 
 # Photo
 
